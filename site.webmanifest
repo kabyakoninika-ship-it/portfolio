@@ -1,0 +1,13 @@
+{
+  "name": "Kabya Koninika Rahman Portfolio",
+  "short_name": "KKR Portfolio",
+  "description": "Health Economics graduate, University of Dhaka. Research, data analysis and field coordination.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf6f0",
+  "theme_color": "#7a1f2b",
+  "icons": [
+    { "src": "assets/icons/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
